@@ -1,0 +1,2 @@
+# devilobfus
+Lua obfuscator
